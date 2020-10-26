@@ -36,3 +36,4 @@ C:\Users\Gaby de enfermeria\Documents\Curso Comunidad IT\06 - Practica NET\Proye
 C:\Users\Gaby de enfermeria\Documents\Curso Comunidad IT\06 - Practica NET\ProyectoGrupo5\paginacontacto\Grupo5\obj\Debug\netcoreapp3.1\Grupo5.pdb
 C:\Users\Gaby de enfermeria\Documents\Curso Comunidad IT\06 - Practica NET\ProyectoGrupo5\paginacontacto\Grupo5\obj\Debug\netcoreapp3.1\Grupo5.genruntimeconfig.cache
 C:\Users\Gaby de enfermeria\Documents\Curso Comunidad IT\06 - Practica NET\ProyectoGrupo5\paginacontacto\Grupo5\obj\Debug\netcoreapp3.1\Grupo5.csproj.CopyComplete
+C:\Users\Gaby de enfermeria\Documents\Curso Comunidad IT\06 - Practica NET\ProyectoGrupo5\paginacontacto\Grupo5\obj\Debug\netcoreapp3.1\Razor\Views\Home\MostrarDatos.cshtml.g.cs

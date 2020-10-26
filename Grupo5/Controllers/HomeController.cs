@@ -33,10 +33,19 @@ namespace Grupo5.Controllers
             return View();
         }
 
+        [HttpPost]
+        public ActionResult MostrarDatos(string nombre, string mail, string comentario)
+        {
+            ViewBag.Mensaje = $"Gracias por dejar tu comentario {nombre}, te mandamos un mail a {mail}";
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+    
     }
 }

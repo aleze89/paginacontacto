@@ -14417,6 +14417,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Gaby de enfermeria\\Documents\\Curso Comunidad IT\\06 - Practica NET\\ProyectoGrupo5\\paginacontacto\\Grupo5\\Views\\Home\\MostrarDatos.cshtml",
+      "TargetPath": "Views\\Home\\MostrarDatos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Gaby de enfermeria\\Documents\\Curso Comunidad IT\\06 - Practica NET\\ProyectoGrupo5\\paginacontacto\\Grupo5\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
